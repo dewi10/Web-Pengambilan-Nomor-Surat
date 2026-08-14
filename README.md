@@ -2,6 +2,9 @@
 
 SIPNS adalah aplikasi web untuk pengambilan nomor surat secara digital. Aplikasi ini membantu proses pembuatan nomor surat, pengelolaan klasifikasi arsip, registrasi pengguna, serta akses dashboard admin dan user melalui antarmuka berbasis PHP dan MySQL.
 
+
+![Preview Home](img2.png)
+
 ## Fitur Utama
 
 - Landing page publik untuk pengenalan aplikasi
@@ -63,13 +66,9 @@ http://localhost/SIPNS/
 
 ## Preview
 
-### Landing Page
-
-![Preview Landing](img1.png)
-
 ### Halaman Login
 
-![Preview Login](img2.png)
+![Preview Landing](img1.png)
 
 ### Dashboard
 
